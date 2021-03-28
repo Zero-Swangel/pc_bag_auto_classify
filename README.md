@@ -1,5 +1,5 @@
 # 点云包半自动分类脚本
-> 不太会写md，看的懂就好
+> 不太会写md，看的懂就好  
 ## 环境
 - 大部分shell应该都可以，zsh和bash经测试没问题
 - 若run.sh无法运行，使用 `sudo chmod +x ./script/run.sh` 添加运行权限
